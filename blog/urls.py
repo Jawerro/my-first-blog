@@ -1,4 +1,4 @@
-from importlib.resources import path
+# from importlib.resources import path
 from unittest.mock import patch
 from django.urls import URLPattern, path
 from . import views
